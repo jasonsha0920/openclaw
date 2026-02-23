@@ -2,8 +2,8 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
+- **Name:** 節省伯
+- **What to call them:** 節省伯
 - **Pronouns:** 你
 - **Timezone:** Asia/Taipei
 
