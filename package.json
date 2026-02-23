@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "heartbeat": "^0.0.2",
+    "nodemailer": "^6.9.16"
+  }
+}
