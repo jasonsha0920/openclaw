@@ -26,7 +26,9 @@ function arg(name) {
 
 const to = arg('to');
 const subject = arg('subject') ?? '';
-const text = arg('text') ?? '';
+let text = arg('text') ?? '';
+// Allow passing literal "\\n" sequences via CLI args and convert them to real newlines.
+text = text.replace(/\\n/g, "\n");
 
 if (!to) {
   console.error('Missing --to');
