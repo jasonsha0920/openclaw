@@ -1,0 +1,8 @@
+# Hosts to monitor for TLS certificate expiry
+www.ext.fju.edu.tw:443
+fjwaa.fju.edu.tw:443
+i3bydo.com:443
+www.ffceap.com.tw:443
+tel.tpech.gov.tw:443
+lms.myskylines.com:443
+g4s.1pagedo.com:443
